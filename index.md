@@ -8,6 +8,8 @@ Here you can find packaged Helm charts for Jupyter Server related projects, such
 | Chart Name           | Version | App Version | Description                                   | Chart Package Download |
 |----------------------|---------|-------------|-----------------------------------------------|-----------------------|
 | Enterprise Gateway   | 3.2.3   | 3.2.3       | A helm chart to deploy Jupyter Enterprise Gateway | [Download](https://lresende.github.io/helm-chart/jupyter_enterprise_gateway_helm-3.2.3.tgz) |
+| Enterprise Gateway   | 3.3.0-dev.0   | 3.3.0-dev.0       | A helm chart to deploy Jupyter Enterprise Gateway | [Download](https://lresende.github.io/helm-chart/jupyter_enterprise_gateway_helm-3.3.0-dev.0.tgz) |
+
 
 ## How to Use
 

@@ -2,8 +2,23 @@ apiVersion: v1
 entries:
   enterprise-gateway:
   - apiVersion: v2
+    appVersion: 3.3.0.dev.0
+    created: "2025-06-21T02:02:49.832646-07:00"
+    description: A helm chart to deploy Jupyter Enterprise Gateway
+    digest: 027f1d3f24a39b6438e2eefbc2dd6ddf7ed79e528274161c021f712215aadc23
+    home: https://jupyter.org
+    icon: https://avatars1.githubusercontent.com/u/7388996?s=200&v=4
+    kubeVersion: '>=1.18.0-0'
+    name: enterprise-gateway
+    sources:
+    - https://github.com/jupyter-server/enterprise_gateway
+    type: application
+    urls:
+    - https://lresende.github.io/helm-chart/jupyter_enterprise_gateway_helm-3.3.0-dev.0.tgz
+    version: 3.3.0-dev.0
+  - apiVersion: v2
     appVersion: 3.2.3
-    created: "2025-06-19T17:43:44.14408-07:00"
+    created: "2025-06-21T02:02:49.831643-07:00"
     description: A helm chart to deploy Jupyter Enterprise Gateway
     digest: f0908668f3b8d80c2d72a2411aae9537e5b96d5d1cbe01d09fcf81c33200a2ee
     home: https://jupyter.org
@@ -16,4 +31,4 @@ entries:
     urls:
     - https://lresende.github.io/helm-chart/jupyter_enterprise_gateway_helm-3.2.3.tgz
     version: 3.2.3
-generated: "2025-06-19T17:43:44.143336-07:00"
+generated: "2025-06-21T02:02:49.828207-07:00"
